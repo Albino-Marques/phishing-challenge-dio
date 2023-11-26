@@ -21,7 +21,8 @@ Como será usado para estudo, teste e aperfeiçoamento, serão utilizados soment
 Primeiramente tenha as ferramentas instaladas em seu sistema operacional. Siga o passo a passo de instalação das ferramentas nos sites correspondentes: <a href='https://github.com/trustedsec/social-engineer-toolkit' target="_blank">SeToolKit</a> e <a href='https://github.com/htr-tech/zphisher' target="_blank">Zphisher</a>
  Atente-se para o fato de o passo a passo será feito utilizando o Kali Linux virtualizado (WSL) e que as duas ferramentas são CLI (interfaces de linha de comando).
 <br>
-Iniciaremos com o SetoolKit. A ferramenta é baseada em menus de seleção, como a ordem dos números pode alterar com o tempo, incluirei somente o nome da opção a selecionar. Caso queira explorar melhor as demais opções, a ferramenta possui uma documentação bem completa, não exite em lê-la:
+### Iniciaremos com o SetoolKit. 
+A ferramenta é baseada em menus de seleção, como a ordem dos números pode alterar com o tempo, incluirei somente o nome da opção a selecionar. Caso queira explorar melhor as demais opções, a ferramenta possui uma documentação bem completa, não exite em lê-la:
 1. Abra o terminal 
 2. Digite: ```sudo su```
 3. Digite sua senha na sequência
@@ -40,10 +41,44 @@ Iniciaremos com o SetoolKit. A ferramenta é baseada em menus de seleção, como
 
 <br>
 
-## Resultados:
+## Resultados do SeToolKit:
 <img src="https://raw.githubusercontent.com/Albino-Marques/phishing-challenge-dio/main/assets/img/Linkedin.png" width='50%'>
 <br>
-<img src="https://raw.githubusercontent.com/Albino-Marques/phishing-challenge-dio/main/assets/img/Terminal.png" width='50%'>
+<img src="https://raw.githubusercontent.com/Albino-Marques/phishing-challenge-dio/main/assets/img/Terminal-setoolkit.png" width='50%'>
+
+<br>
 <br>
 
-[Arquivo de log do teste de ataque](https://github.com/Albino-Marques/phishing-challenge-dio/blob/main/assets/phishing-challenge-dio_log.txt)
+[Arquivo de log do teste de ataque](https://github.com/Albino-Marques/phishing-challenge-dio/blob/main/assets/phishing-challenge-dio_log_setoolkit.txt)
+
+<br>
+<br>
+
+### Agora usaremos o Zphisher:
+Aassim como o SeToolKit, é uma ferramenta baseada em menus de seleção, então, também manterei apontando as opções usadas pelo texto, e não número da opção. Caso queira explorar melhor as demais opções, esta ferramenta também possui uma documentação bem completa, não exite em lê-la:
+Com o Zphisher, está sendo possível clonar o facebook sem problemas. Utilizaremos ele para exemplo.
+Após ter clonado o Zphisher como demonstra o site oficial, você fará o seguinte:
+1. Abra a pasta do Zphisher: No meu caso ficou ```/home/albus/zphisher```, por tando uso ```cd zphisher/``` estando na pasta pessoal mesmo. 
+2. Depois insida o comando: ```bash zphisher```
+3. Irá aparecer várias opções possíveis de utilizarmos. Mas nos ateremos ao facebook. Digite os dois números correspondente ao ```facebook``` e de enter.
+4. Agora iremos selecionar qual das páginas do facebook iremos clonar. No meu caso, selecionei a tradicional: ```Traditional Login Page```
+5. Neste ponto, iremos perceber que inclusive podemos gerar um link falso pela web mesmo para poder enviar. Mas no momento iremos utilizar somente o ```Localhost```.
+6. Será questionado se quer altera a porta. Digite ```N```.
+7. Após isso ele irá abrirá uma tela com o seu localhost para clicar. Clicando será direcionado para a página fake do facebook. Os dados digitados irão aparecer nesta mesma tela do Zphisher.
+
+## Resultados do Zphisher
+
+<br>
+
+## Resultados do SeToolKit:
+<img src="https://raw.githubusercontent.com/Albino-Marques/phishing-challenge-dio/main/assets/img/Facebook.png" width='50%'>
+<br>
+<img src="https://raw.githubusercontent.com/Albino-Marques/phishing-challenge-dio/main/assets/img/Terminal-zphisher.png" width='50%'>
+
+<br>
+<br>
+
+[Arquivo de log do teste de ataque](https://github.com/Albino-Marques/phishing-challenge-dio/blob/main/assets/phishing-challenge-dio_log_zphisher.txt)
+
+<br>
+<br>
