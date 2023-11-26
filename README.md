@@ -1,5 +1,5 @@
 # Desafio de Criação de Phishing da DIO: Gerador de Links de Phishing
-Este projeto tem objetivo educativo, de conscientização de como é fácil gerar um link falso de phishing, sobre as práticas de phishing e demonstrar a capacidade de gerar estes, utilizando um ambiente controlado para testes éticos de segurança. Não é para ser usado de forma maliciosa ou ilegal.
+Este projeto tem objetivo educativo, conscientização de como é fácil gerar um link falso de phishing, sobre as práticas de phishing e demonstrar a capacidade de gerar estes, utilizando um ambiente controlado para testes éticos de segurança. Não é para ser usado de forma maliciosa ou ilegal.
 
 ## Descrição
 As ferramentas usadas serão Social Engineering Toolkit (SeToolKit) que permite a criação de links de phishing e muito mais, sendo usada aqui para fins educativos, e o Zphisher que, assim como o SeToolkit, permite a criação de links de phishing para recuperar credenciais.
