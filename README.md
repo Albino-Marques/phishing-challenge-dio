@@ -41,6 +41,6 @@ Iniciaremos com o SetoolKit. A ferramenta é baseada em menus de seleção, como
 <br>
 
 ## Resultados:
-<img src="https://raw.githubusercontent.com/Albino-Marques/phishing-challenge-dio/main/assets/Linkedin.png)https://raw.githubusercontent.com/Albino-Marques/phishing-challenge-dio/main/assets/Linkedin.png" width='50%'>
+<img src="https://raw.githubusercontent.com/Albino-Marques/phishing-challenge-dio/main/assets/Linkedin.png" width='50%'>
 <br>
 <img src="https://raw.githubusercontent.com/Albino-Marques/phishing-challenge-dio/main/assets/Terminal.png" width='50%'>
