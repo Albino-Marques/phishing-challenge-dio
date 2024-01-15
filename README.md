@@ -67,10 +67,6 @@ Após ter clonado o Zphisher como demonstra o site oficial, você fará o seguin
 7. Após isso ele irá abrirá uma tela com o seu localhost para clicar. Clicando será direcionado para a página fake do facebook. Os dados digitados irão aparecer nesta mesma tela do Zphisher.
 
 ## Resultados do Zphisher
-
-<br>
-
-## Resultados do SeToolKit:
 <img src="https://raw.githubusercontent.com/Albino-Marques/phishing-challenge-dio/main/assets/img/Facebook.png" width='50%'>
 <br>
 <img src="https://raw.githubusercontent.com/Albino-Marques/phishing-challenge-dio/main/assets/img/Terminal-zphisher.png" width='50%'>
