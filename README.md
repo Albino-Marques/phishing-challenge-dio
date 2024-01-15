@@ -49,7 +49,7 @@ A ferramenta é baseada em menus de seleção, como a ordem dos números pode al
 <br>
 <br>
 
-[Arquivo de log do teste de ataque](https://github.com/Albino-Marques/phishing-challenge-dio/blob/main/assets/phishing-challenge-dio_log_setoolkit.txt)
+[Arquivo de log do teste de ataque](https://github.com/Albino-Marques/phishing-challenge-dio/blob/main/assets/files/phishing-challenge-dio_log_setoolkit.txt)
 
 <br>
 <br>
@@ -74,7 +74,7 @@ Após ter clonado o Zphisher como demonstra o site oficial, você fará o seguin
 <br>
 <br>
 
-[Arquivo de log do teste de ataque](https://github.com/Albino-Marques/phishing-challenge-dio/blob/main/assets/phishing-challenge-dio_log_zphisher.txt)
+[Arquivo de log do teste de ataque](https://github.com/Albino-Marques/phishing-challenge-dio/blob/main/assets/files/phishing-challenge-dio_log_zphisher.txt)
 
 <br>
 <br>
